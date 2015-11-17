@@ -7,7 +7,7 @@
 [AiScript("sheep")]
 public class SheepAi : AiScript
 {
-	public GolemAi()
+	public SheepAi()
 	{
 		// visual range 400 - 90°, audio range 300
 		SetAggroRadius(400);
